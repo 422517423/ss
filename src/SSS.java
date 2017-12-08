@@ -6,5 +6,7 @@ public class SSS {
         System.out.println("分支");
         System.out.println("不分支");
         System.out.println("我不分支");
+        System.out.println("我不分支啊");
+
     }
 }
